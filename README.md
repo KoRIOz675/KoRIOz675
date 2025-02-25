@@ -2,6 +2,7 @@
 📚 I'm currently studying in a Computer Engineering School.
 <br><br>👉 More informations: [thomas.mafille.net](https://thomas.mafille.net)
 <br><br>🗣️ FR/EN
+<br><br>📍 Versailles, Yvelines, France
 
 
 ## 🌐 Socials:
