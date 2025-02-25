@@ -1,6 +1,6 @@
 # 💫 About Me:
 📚 I'm currently studying in a Computer Engineering School.
-<br><br>👉 More informations: https://thomas.mafille.net
+<br><br>👉 More informations: ![thomas.mafille.net](https://thomas.mafille.net){:target="_blank"}
 <br><br>🗣️ FR/EN
 
 
