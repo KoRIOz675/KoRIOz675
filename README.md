@@ -3,6 +3,7 @@
 <br><br>👉 More informations: [thomas.mafille.net](https://thomas.mafille.net)
 <br>🗣️ FR/EN
 <br>📍 Versailles, Yvelines, France
+<br>🔷 Founder of the [Nightbreeze Inn](https://github.com/Night-Breeze-Inn)
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/korioz675.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmafille ) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas@mafille.net) 
