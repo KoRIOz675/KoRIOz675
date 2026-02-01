@@ -5,7 +5,7 @@
 <br>📍 Versailles, Yvelines, France
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/korioz675.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmafille ) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas@mafille.net) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmafille ) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas@mafille.net) 
 
 # 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KoRIOz675&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
