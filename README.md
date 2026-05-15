@@ -6,6 +6,7 @@
 👉 Learn more: [thomas.mafille.net](https://thomas.mafille.net)  
 ✉️ Contact me: [thomas@mafille.net](mailto:thomas@mafille.net)  
 📌 [LinkedIn](https://www.linkedin.com/in/thomasmafille/)
+
 ---
 
 ## Projects
