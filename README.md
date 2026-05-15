@@ -1,14 +1,11 @@
 # MAFILLE Thomas
 
-> Full stack software engineer.<br/>
+> Full stack software engineer.  
 
-📚 I'm currently studying in a Computer Engineering School.
-<br> 👉 Learn more: [thomas.mafille.net](https://thomas.mafille.net)
-<br> ✉️ Contact me: [thomas@mafille.net](mailto:thomas@mafille.net)
-<br> 📌 [LinkedIn](https://www.linkedin.com/in/thomasmafille/)
-<br> 🗣️ FR/EN
-<br> 📍 Paris, France
-
+📍 Paris, France · 🗣️ FR / EN  
+👉 Learn more: [thomas.mafille.net](https://thomas.mafille.net)  
+✉️ Contact me: [thomas@mafille.net](mailto:thomas@mafille.net)  
+📌 [LinkedIn](https://www.linkedin.com/in/thomasmafille/)
 ---
 
 ## Projects
