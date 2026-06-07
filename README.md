@@ -13,5 +13,6 @@
 
 | Project  | Description | Stack |
 | --- | --- | --- |
+| [DevTools](https://github.com/KoRIOz675/DevTools) | Repository gathering all the different tools I use for dev | |
 | Sapphire | A job search CRM | Tauri + React |
 | Emerald  | Combination of a project management tool and a document knowledge base. | Spring (Gradle) + React \| Micro-service + Micro-frontend |
