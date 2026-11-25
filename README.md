@@ -14,4 +14,4 @@
 | Project                                           | Description                                                | Stack         | Status / version |
 | ------------------------------------------------- | ---------------------------------------------------------- | ------------- | ---------------: |
 | [DevTools](https://github.com/KoRIOz675/DevTools) | Repository gathering all the different tools I use for dev | -             |                - |
-| [Sapphire](https://nbi-project.fr/en/)            | local-First CRM for your professional network              | Tauri + React | Official Release |
+| [Sapphire](https://github.com/KoRIOz675/Sapphire) | Local-first desktop CRM for your professional network      | Tauri + React | Official Release |
