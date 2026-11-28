@@ -1,6 +1,5 @@
 # Hi everyone
-
-<img align="right" alt="GIF" src="https://github.com/KoRIOz675/KoRIOz675/blob/main/avatar.png?raw=true" width="25%" />
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="60%">
 
 Hi!<br/>
 Let me introduce who am I in a few lines:
@@ -17,6 +16,12 @@ Let me introduce who am I in a few lines:
 | | | |
 | -------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | Sapphire | <a href="https://github.com/KoRIOz675/Sapphire" target="_blank">Repository link</a> | Local-first desktop CRM for your professional network |
+
+</td><td valign="top" width="33%">
+
+<img align="right" alt="GIF" src="https://github.com/KoRIOz675/KoRIOz675/blob/main/avatar.png?raw=true" width="100%" />
+
+</td></tr></table>
 
 <br/>
 
