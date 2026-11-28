@@ -1,4 +1,5 @@
 # Hi everyone
+
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="60%">
 
 Hi!<br/>
@@ -17,6 +18,8 @@ Let me introduce who am I in a few lines:
 | -------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | Sapphire | <a href="https://github.com/KoRIOz675/Sapphire" target="_blank">Repository link</a> | Local-first desktop CRM for your professional network |
 
+<br/>
+
 </td><td valign="top" width="33%">
 
 <img align="right" alt="GIF" src="https://github.com/KoRIOz675/KoRIOz675/blob/main/avatar.png?raw=true" width="100%" />
@@ -25,7 +28,7 @@ Let me introduce who am I in a few lines:
 
 <br/>
 
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="33%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="10%">
 
 ## Socials
 
@@ -33,7 +36,7 @@ Let me introduce who am I in a few lines:
 | ------------------------------------------------------ | ------------------------------------------------ |
 | [LinkedIn](https://www.linkedin.com/in/thomasmafille/) | [thomas.mafille.net](https://thomas.mafille.net) |
 
-</td><td valign="top" width="67%">
+</td><td valign="top" width="33%">
 
 ## Tech stack
 
@@ -47,7 +50,7 @@ Let me introduce who am I in a few lines:
 
 </td></tr></table>
 
-# 
+#
 
 <div align="center">
 
