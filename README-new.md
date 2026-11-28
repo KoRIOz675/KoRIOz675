@@ -1,6 +1,6 @@
 # Hi everyone
 
-<img align="right" alt="GIF" src="https://github.com/KoRIOz675/KoRIOz675/blob/main/avatar.png?raw=true" width="35%" />
+<img align="right" alt="GIF" src="https://github.com/KoRIOz675/KoRIOz675/blob/main/avatar.png?raw=true" width="25%" />
 
 Hi!<br/>
 Let me introduce who am I in a few lines:
@@ -9,8 +9,8 @@ Let me introduce who am I in a few lines:
     <li>I'm <b>Thomas MAFILLE</b>, aka (@KoRIOz675)
     <li>👨‍🔧 I'm a <b>Full Stack Software Engineer</b> student</li>
     <li>📍 Paris, France</li>
-    <li>✉️ Contact me directly here: <a href="mailto:thomas@mafille.net" target="_blank">thomas@mafille.net</a>
-<ul>
+    <li>✉️ Contact me directly here: <a href="mailto:thomas@mafille.net" target="_blank">thomas@mafille.net</a></li>
+</ul>
 <br/>
 
 <b>Current projects</b>
@@ -42,7 +42,7 @@ Let me introduce who am I in a few lines:
 
 </td></tr></table>
 
-# 
+#
 
 <div align="center">
 
