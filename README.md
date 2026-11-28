@@ -1,8 +1,7 @@
 # Hi everyone
 
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=435&lines=Software+Engineer;Self-Hosting+Enjoyer"/>
-</div>
+
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="60%">
 
 Hi!<br/>
@@ -76,6 +75,8 @@ Let me introduce who I am in a few lines:
         <img src="https://github.com/KoRIOz675/KoRIOz675/blob/main/images/tech/Markdown.png?raw=true" height="48" alt="Markdown" />
       <br>Markdown
     </td>
+  </tr>
+<tr>
     <td align="center" width="130">
         <img src="https://github.com/KoRIOz675/KoRIOz675/blob/main/images/tech/python.svg?raw=true" height="48" alt="Python" />
       <br>Python
