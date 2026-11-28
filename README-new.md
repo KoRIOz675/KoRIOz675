@@ -20,7 +20,7 @@ Let me introduce who am I in a few lines:
 
 <br/>
 
-<table><tr><td valign="top" width="33%">
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="33%">
 
 ## Socials
 
@@ -42,7 +42,7 @@ Let me introduce who am I in a few lines:
 
 </td></tr></table>
 
-#
+# 
 
 <div align="center">
 
